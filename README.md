@@ -70,7 +70,6 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - The number of countries and athletes has grown consistently, showcasing the Olympics' expanding global appeal.
 - Recent decades (2000 onward) saw significant inclusion and diversity in participation.
 
----
 
 ## 🌍 Page 2: Country-wise Medal Distribution
 
@@ -83,7 +82,6 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Countries like **Russia, Germany, UK, and China** follow as consistent top contenders.
 - Some nations dominate specific sports categories (e.g., Kenya in athletics, China in gymnastics).
 
----
 
 ## 🚹🚺 Page 3: Gender & Participation Analysis
 
@@ -96,7 +94,6 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - The **gender gap** in medals has narrowed, showing balanced opportunities across sports.
 - Sports traditionally dominated by men are now seeing increased female representation (e.g., boxing, wrestling).
 
----
 
 ## 🥋 Page 4: Sport-wise Performance
 
@@ -109,7 +106,6 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Newer sports like **Skateboarding** and **Surfing** were introduced in recent years.
 - Certain nations specialize in niche sports, e.g., South Korea in archery.
 
----
 
 ## 🧑‍🎓 Page 5: Top Athletes
 
@@ -122,7 +118,6 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Several top athletes have competed across multiple Olympic editions, showing career longevity and dominance.
 - Female athletes from countries like the USA and Russia are among top medalists.
 
----
 
 ## 🕰️ Page 6: Timeline & Trends
 
@@ -135,7 +130,6 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Participation dipped during wartime (1916, 1940, 1944 – Olympics not held).
 - Post-2000 growth is fueled by Asian nations rising in rankings.
 
----
 
 ## 🧰 Filter / Slicer Panel
 
@@ -147,26 +141,9 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Compare male vs female medalists in swimming.
 - Check all Gold medal winners in Athletics from the UK.
 
----
 
 > ⚡ This dashboard transforms 120+ years of Olympic history into accessible and interactive insights, highlighting patterns in performance, inclusion, and sporting evolution.
 
-
----
-
-## 🖼️ Screenshots
-
-### Dashboard Overview
-![Dashboard Overview](<img width="633" alt="Image" src="https://github.com/user-attachments/assets/9d9f38bc-3541-4ded-92cc-51ad0f4958de" />)
-
-### Country Medal Distribution
-![Country Medal](images/medal_distribution.png)
-
-### Gender Participation Trend
-![Gender Participation](images/gender_trend.png)
-
-### Sport-wise Insights
-![Sport-wise Insights](images/sport_insights.png)
 
 ---
 
