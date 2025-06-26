@@ -14,7 +14,7 @@ An interactive Power BI dashboard that provides insights into the performance, p
 - [Key Insights](#key-insights)
 - [Screenshots](#screenshots)
 - [Conclusion](#conclusion)
-- Author
+- [Author](#author)
 
 ---
 
@@ -69,7 +69,11 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 ## 🖼️ Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](images/summer_olympics_overview.png)
+![Dashboard Overview](images/summer_olympics_overview.png)![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 ### Country Medal Distribution
 ![Country Medal](images/medal_distribution.png)
