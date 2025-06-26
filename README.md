@@ -64,15 +64,12 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 Highlights:
 
 - Total medals awarded across all Summer Olympics editions.
-
 - Count of participating nations and athletes.
-
 - Timeline showing the evolution and scale of the Olympic Games.
 
 Insights:
 
 - The number of countries and athletes has grown consistently, showcasing the Olympics' expanding global appeal.
-
 - Recent decades (2000 onward) saw significant inclusion and diversity in participation.
 
 ---
