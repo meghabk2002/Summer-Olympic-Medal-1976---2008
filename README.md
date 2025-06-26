@@ -83,31 +83,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Some nations dominate specific sports categories (e.g., Kenya in athletics, China in gymnastics).
 
 
-## 🚹🚺 Page 3: Gender & Participation Analysis
-
-**Highlights:**
-- Gender-wise athlete participation over time.
-- Medal trends segmented by gender.
-
-**Insights:**
-- A steep rise in **female participation** since the 1980s reflects growing inclusivity.
-- The **gender gap** in medals has narrowed, showing balanced opportunities across sports.
-- Sports traditionally dominated by men are now seeing increased female representation (e.g., boxing, wrestling).
-
-
-## 🥋 Page 4: Sport-wise Performance
-
-**Highlights:**
-- Number of medals per sport.
-- Sport-wise medal trends across editions.
-
-**Insights:**
-- **Athletics** and **Swimming** are the most medal-rich sports.
-- Newer sports like **Skateboarding** and **Surfing** were introduced in recent years.
-- Certain nations specialize in niche sports, e.g., South Korea in archery.
-
-
-## 🧑‍🎓 Page 5: Top Athletes
+## 🧑‍🎓 Page 3: Top Athletes
 
 **Highlights:**
 - List of top medal-winning athletes.
@@ -119,7 +95,31 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Female athletes from countries like the USA and Russia are among top medalists.
 
 
-## 🕰️ Page 6: Timeline & Trends
+## 🚹🚺 Gender & Participation Analysis
+
+**Highlights:**
+- Gender-wise athlete participation over time.
+- Medal trends segmented by gender.
+
+**Insights:**
+- A steep rise in **female participation** since the 1980s reflects growing inclusivity.
+- The **gender gap** in medals has narrowed, showing balanced opportunities across sports.
+- Sports traditionally dominated by men are now seeing increased female representation (e.g., boxing, wrestling).
+
+
+## 🥋 Sport-wise Performance
+
+**Highlights:**
+- Number of medals per sport.
+- Sport-wise medal trends across editions.
+
+**Insights:**
+- **Athletics** and **Swimming** are the most medal-rich sports.
+- Newer sports like **Skateboarding** and **Surfing** were introduced in recent years.
+- Certain nations specialize in niche sports, e.g., South Korea in archery.
+
+
+## 🕰️ Timeline & Trends
 
 **Highlights:**
 - Year-wise trend of medal events, countries, and athlete participation.
