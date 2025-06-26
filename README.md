@@ -93,6 +93,6 @@ The Summer Olympics dashboard offers a comprehensive look at how the Games have 
 **Megha BK**  
 🎓 Post Graduate in Data Science and Analytics  
 📊 Passionate about visual storytelling with Power BI  
-📬 Connect on [LinkedIn](https://www.linkedin.com/in/megha-bk- 718265222/) 
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/megha-bk-718265222/)
 
 ---
