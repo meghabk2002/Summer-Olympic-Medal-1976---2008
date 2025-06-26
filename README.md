@@ -69,11 +69,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 ## 🖼️ Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](images/summer_olympics_overview.png)![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-
+![Dashboard Overview]("C:\Users\Megha BK\OneDrive\Desktop\Olympics Home PAge.png")
 
 ### Country Medal Distribution
 ![Country Medal](images/medal_distribution.png)
