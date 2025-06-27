@@ -63,11 +63,12 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 ![Summary View Page Dashboard](https://github.com/meghabk2002/Summer-Olympic-Medal-1976---2008/blob/main/Summary%20Page.png?raw=true)
 ![COuntry View Page Dashboard](https://github.com/meghabk2002/Summer-Olympic-Medal-1976---2008/blob/main/Country%20View%20Page.png?raw=true)
 ![Athlete View Page Dashboard](https://github.com/meghabk2002/Summer-Olympic-Medal-1976---2008/blob/main/Athlete%20View%20Page.png?raw=true)
+
 --- 
 
 ## 📊 Key Insights
 
-## 🏠 Page 1: Overview / Home Page
+# 🏠 Page 1: Overview / Home Page
 
 **Highlights:**
 - Total medals awarded across all Summer Olympics editions.
