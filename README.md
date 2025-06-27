@@ -1,4 +1,4 @@
-# Summer-Olympic-Medal-1976---2008
+# Summer--Olympic--Medal--1976-2008
 
 # 🏅 Summer Olympics Dashboard
 
@@ -56,6 +56,14 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Drill-down capability and filters for detailed exploration
 
 ---
+
+## 📷 Dashboard Snapshot
+
+![Olympics Home Page Dashboard](https://github.com/meghabk2002/Summer-Olympic-Medal-1976---2008/blob/main/Olympics%20Home%20PAge.png?raw=true)
+![Summary View Page Dashboard](https://github.com/meghabk2002/Summer-Olympic-Medal-1976---2008/blob/main/Summary%20Page.png?raw=true)
+![COuntry View Page Dashboard](https://github.com/meghabk2002/Summer-Olympic-Medal-1976---2008/blob/main/Country%20View%20Page.png?raw=true)
+![Athlete View Page Dashboard](https://github.com/meghabk2002/Summer-Olympic-Medal-1976---2008/blob/main/Athlete%20View%20Page.png?raw=true)
+--- 
 
 ## 📊 Key Insights
 
