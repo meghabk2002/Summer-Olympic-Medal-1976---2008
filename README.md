@@ -68,7 +68,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 
 ## 📊 Key Insights
 
-# 🏠 Page 1: Overview / Home Page
+### 🏠 Page 1: Overview / Home Page
 
 **Highlights:**
 - Total medals awarded across all Summer Olympics editions.
