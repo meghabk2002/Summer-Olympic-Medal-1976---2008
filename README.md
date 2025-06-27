@@ -80,7 +80,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Recent decades (2000 onward) saw significant inclusion and diversity in participation.
 
 
-## 🌍 Page 2: Country-wise Medal Distribution
+### 🌍 Page 2: Country-wise Medal Distribution
 
 **Highlights:**
 - Medal count by country.
@@ -92,7 +92,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Some nations dominate specific sports categories (e.g., Kenya in athletics, China in gymnastics).
 
 
-## 🧑‍🎓 Page 3: Top Athletes
+### 🧑‍🎓 Page 3: Top Athletes
 
 **Highlights:**
 - List of top medal-winning athletes.
@@ -104,7 +104,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Female athletes from countries like the USA and Russia are among top medalists.
 
 
-## 🚹🚺 Gender & Participation Analysis
+### 🚹🚺 Gender & Participation Analysis
 
 **Highlights:**
 - Gender-wise athlete participation over time.
@@ -116,7 +116,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Sports traditionally dominated by men are now seeing increased female representation (e.g., boxing, wrestling).
 
 
-## 🥋 Sport-wise Performance
+### 🥋 Sport-wise Performance
 
 **Highlights:**
 - Number of medals per sport.
@@ -128,7 +128,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Certain nations specialize in niche sports, e.g., South Korea in archery.
 
 
-## 🕰️ Timeline & Trends
+### 🕰️ Timeline & Trends
 
 **Highlights:**
 - Year-wise trend of medal events, countries, and athlete participation.
@@ -140,7 +140,7 @@ This dashboard aims to simplify complex Olympic datasets into digestible insight
 - Post-2000 growth is fueled by Asian nations rising in rankings.
 
 
-## 🧰 Filter / Slicer Panel
+### 🧰 Filter / Slicer Panel
 
 **Highlights:**
 - Allows dynamic filtering by Year, Country, Sport, Gender, Medal type.
